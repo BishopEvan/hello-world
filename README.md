@@ -1,2 +1,5 @@
 # hello-world
-Just starting my coding journey
+
+Hello there!
+
+Just stepping into this vast wasteland of coding.
